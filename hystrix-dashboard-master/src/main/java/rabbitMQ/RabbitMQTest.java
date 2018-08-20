@@ -5,3 +5,4 @@ public class RabbitMQTest {
         System.out.print("ok");
     }
 }
+
