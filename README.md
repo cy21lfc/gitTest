@@ -1,5 +1,7 @@
 # gitTest
 aaa
 * git
-<<< git
-<<<<git
+git
+======
+git
+------
